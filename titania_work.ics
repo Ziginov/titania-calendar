@@ -1,0 +1,228 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Titania Calendar Exporter//RU//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Titania — рабочие смены
+X-WR-TIMEZONE:Europe/Helsinki
+BEGIN:VEVENT
+UID:634ff2e85983925720a0d985@titania-calendar
+DTSTAMP:20260715T194805Z
+DTSTART;TZID=Europe/Helsinki:20260715T130000
+DTEND;TZID=Europe/Helsinki:20260715T210000
+SUMMARY:🌙 Työvuoro
+LOCATION:Pirttilä
+DESCRIPTION:13:00–21:00\n\nYksikkö: Pirttilä\nAlkuperäinen nimi: Pirttilä vastuu ilta\nLähde: Titania\nКод: I1H3\nТип: EVENING_SHIFT\nПодразделение: 515
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:feb9d8fbe30dfa50d56ef4d9@titania-calendar
+DTSTAMP:20260715T194805Z
+DTSTART;TZID=Europe/Helsinki:20260716T130000
+DTEND;TZID=Europe/Helsinki:20260716T210000
+SUMMARY:🌙 Työvuoro
+LOCATION:Ainola
+DESCRIPTION:13:00–21:00\n\nYksikkö: Ainola\nAlkuperäinen nimi: Ainola vastuu ilta\nLähde: Titania\nКод: I1H4\nТип: EVENING_SHIFT\nПодразделение: 515
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b7ed7766ed07d80c885ba07f@titania-calendar
+DTSTAMP:20260715T194805Z
+DTSTART;TZID=Europe/Helsinki:20260717T070000
+DTEND;TZID=Europe/Helsinki:20260717T144000
+SUMMARY:☀️ Työvuoro
+LOCATION:Tupala
+DESCRIPTION:07:00–14:40\n\nYksikkö: Tupala\nAlkuperäinen nimi: Tupala vastuu aamu\nLähde: Titania\nКод: A1H2\nТип: MORNING_SHIFT\nПодразделение: 515
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cbc457a628abbe553d35c943@titania-calendar
+DTSTAMP:20260715T194805Z
+DTSTART;TZID=Europe/Helsinki:20260718T070000
+DTEND;TZID=Europe/Helsinki:20260718T141500
+SUMMARY:☀️ Työvuoro
+LOCATION:Pirttilä
+DESCRIPTION:07:00–14:15\n\nYksikkö: Pirttilä\nAlkuperäinen nimi: Pirttilä hyppyri aamu\nLähde: Titania\nКод: A2H3\nТип: MORNING_SHIFT\nПодразделение: 515
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4c2ca9287d2c516b2c337441@titania-calendar
+DTSTAMP:20260715T194805Z
+DTSTART;TZID=Europe/Helsinki:20260719T070000
+DTEND;TZID=Europe/Helsinki:20260719T141500
+SUMMARY:☀️ Työvuoro
+LOCATION:Pirttilä
+DESCRIPTION:07:00–14:15\n\nYksikkö: Pirttilä\nAlkuperäinen nimi: Pirttilä hyppyri aamu\nLähde: Titania\nКод: A2H3\nТип: MORNING_SHIFT\nПодразделение: 515
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:74e7be740aad5187d4e7b481@titania-calendar
+DTSTAMP:20260715T194805Z
+DTSTART;TZID=Europe/Helsinki:20260721T133000
+DTEND;TZID=Europe/Helsinki:20260721T210000
+SUMMARY:🌙 Työvuoro
+LOCATION:Heimola
+DESCRIPTION:13:30–21:00\n\nYksikkö: Heimola\nAlkuperäinen nimi: Heimola vastuu ilta\nLähde: Titania\nКод: I1L1\nТип: EVENING_SHIFT\nПодразделение: 515
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:23c94e0f0ba13d6d028a6eb6@titania-calendar
+DTSTAMP:20260715T194805Z
+DTSTART;TZID=Europe/Helsinki:20260722T130000
+DTEND;TZID=Europe/Helsinki:20260722T210000
+SUMMARY:🌙 Työvuoro
+LOCATION:Tupala
+DESCRIPTION:13:00–21:00\n\nYksikkö: Tupala\nAlkuperäinen nimi: Tupala vastuu ilta\nLähde: Titania\nКод: I1H2\nТип: EVENING_SHIFT\nПодразделение: 515
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6499f8ec306cd7b2a083ce4e@titania-calendar
+DTSTAMP:20260715T194805Z
+DTSTART;TZID=Europe/Helsinki:20260723T130000
+DTEND;TZID=Europe/Helsinki:20260723T210000
+SUMMARY:🌙 Työvuoro
+LOCATION:Heimola
+DESCRIPTION:13:00–21:00\n\nYksikkö: Heimola\nAlkuperäinen nimi: Heimola vastuu ilta\nLähde: Titania\nКод: I1L1\nТип: EVENING_SHIFT\nПодразделение: 515
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:026507423a74be1ef05a7388@titania-calendar
+DTSTAMP:20260715T194805Z
+DTSTART;TZID=Europe/Helsinki:20260724T070000
+DTEND;TZID=Europe/Helsinki:20260724T144000
+SUMMARY:☀️ Työvuoro
+LOCATION:Pirttilä
+DESCRIPTION:07:00–14:40\n\nYksikkö: Pirttilä\nAlkuperäinen nimi: Pirttilä vastuu aamu\nLähde: Titania\nКод: A1H3\nТип: MORNING_SHIFT\nПодразделение: 515
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:26e07c2188432d617f8029ea@titania-calendar
+DTSTAMP:20260715T194805Z
+DTSTART;TZID=Europe/Helsinki:20260727T130000
+DTEND;TZID=Europe/Helsinki:20260727T210000
+SUMMARY:🌙 Työvuoro
+LOCATION:Ainola
+DESCRIPTION:13:00–21:00\n\nYksikkö: Ainola\nAlkuperäinen nimi: Ainola hyppyri ilta\nLähde: Titania\nКод: I1L4\nТип: EVENING_SHIFT\nПодразделение: 515
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4f087ab3c1a3106c5aebb155@titania-calendar
+DTSTAMP:20260715T194805Z
+DTSTART;TZID=Europe/Helsinki:20260728T070000
+DTEND;TZID=Europe/Helsinki:20260728T143500
+SUMMARY:☀️ Työvuoro
+LOCATION:Tupala
+DESCRIPTION:07:00–14:35\n\nYksikkö: Tupala\nAlkuperäinen nimi: Tupala hyppyri aamu\nLähde: Titania\nКод: A1L2\nТип: MORNING_SHIFT\nПодразделение: 515
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:c42d1e7f69e24fb46d1812c2@titania-calendar
+DTSTAMP:20260715T194805Z
+DTSTART;TZID=Europe/Helsinki:20260731T130000
+DTEND;TZID=Europe/Helsinki:20260731T210000
+SUMMARY:🌙 Työvuoro
+LOCATION:Pirttilä
+DESCRIPTION:13:00–21:00\n\nYksikkö: Pirttilä\nAlkuperäinen nimi: Pirttilä vastuu ilta\nLähde: Titania\nКод: I1H3\nТип: EVENING_SHIFT\nПодразделение: 515
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8a8115fc9e3b5ef23a999dc0@titania-calendar
+DTSTAMP:20260715T194805Z
+DTSTART;TZID=Europe/Helsinki:20260801T070000
+DTEND;TZID=Europe/Helsinki:20260801T141500
+SUMMARY:☀️ Työvuoro
+LOCATION:Ainola
+DESCRIPTION:07:00–14:15\n\nYksikkö: Ainola\nAlkuperäinen nimi: Ainola vastuu aamu\nLähde: Titania\nКод: A1H4\nТип: MORNING_SHIFT\nПодразделение: 515
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:765e7cd68efd48bbb44f1392@titania-calendar
+DTSTAMP:20260715T194805Z
+DTSTART;TZID=Europe/Helsinki:20260802T070000
+DTEND;TZID=Europe/Helsinki:20260802T141500
+SUMMARY:☀️ Työvuoro
+LOCATION:Tupala
+DESCRIPTION:07:00–14:15\n\nYksikkö: Tupala\nAlkuperäinen nimi: Tupala vastuu aamu\nLähde: Titania\nКод: A1H2\nТип: MORNING_SHIFT\nПодразделение: 515
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bdb721f3eefa4df85c297489@titania-calendar
+DTSTAMP:20260715T194805Z
+DTSTART;TZID=Europe/Helsinki:20260803T070000
+DTEND;TZID=Europe/Helsinki:20260803T144000
+SUMMARY:☀️ Työvuoro
+LOCATION:Tupala
+DESCRIPTION:07:00–14:40\n\nYksikkö: Tupala\nAlkuperäinen nimi: Tupala vastuu aamu\nLähde: Titania\nКод: A1H2\nТип: MORNING_SHIFT\nПодразделение: 515
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3ea9032106071ca75ef51e2d@titania-calendar
+DTSTAMP:20260715T194805Z
+DTSTART;TZID=Europe/Helsinki:20260805T070000
+DTEND;TZID=Europe/Helsinki:20260805T145500
+SUMMARY:☀️ Työvuoro
+LOCATION:Ainola
+DESCRIPTION:07:00–14:55\n\nYksikkö: Ainola\nAlkuperäinen nimi: Ainola vastuu aamu\nLähde: Titania\nКод: A1H4\nТип: MORNING_SHIFT\nПодразделение: 515
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4b10ab56c0fdaa9a5bb82c74@titania-calendar
+DTSTAMP:20260715T194805Z
+DTSTART;TZID=Europe/Helsinki:20260806T070000
+DTEND;TZID=Europe/Helsinki:20260806T144000
+SUMMARY:☀️ Työvuoro
+LOCATION:Ainola
+DESCRIPTION:07:00–14:40\n\nYksikkö: Ainola\nAlkuperäinen nimi: Ainola vastuu aamu\nLähde: Titania\nКод: A1H4\nТип: MORNING_SHIFT\nПодразделение: 515
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7166ae16f47b48e20c5e9633@titania-calendar
+DTSTAMP:20260715T194805Z
+DTSTART;TZID=Europe/Helsinki:20260807T130000
+DTEND;TZID=Europe/Helsinki:20260807T210000
+SUMMARY:🌙 Työvuoro
+LOCATION:Ainola
+DESCRIPTION:13:00–21:00\n\nYksikkö: Ainola\nAlkuperäinen nimi: Ainola vastuu ilta\nLähde: Titania\nКод: I1H4\nТип: EVENING_SHIFT\nПодразделение: 515
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:298fe4b85577915215674ccc@titania-calendar
+DTSTAMP:20260715T194805Z
+DTSTART;TZID=Europe/Helsinki:20260808T070000
+DTEND;TZID=Europe/Helsinki:20260808T141500
+SUMMARY:☀️ Työvuoro
+LOCATION:Heimola
+DESCRIPTION:07:00–14:15\n\nYksikkö: Heimola\nAlkuperäinen nimi: Heimola vastuu aamu\nLähde: Titania\nКод: A1L1\nТип: MORNING_SHIFT\nПодразделение: 515
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cf75b7941bcfee5e6f8dacdd@titania-calendar
+DTSTAMP:20260715T194805Z
+DTSTART;TZID=Europe/Helsinki:20260809T070000
+DTEND;TZID=Europe/Helsinki:20260809T141500
+SUMMARY:☀️ Työvuoro
+LOCATION:Ainola
+DESCRIPTION:07:00–14:15\n\nYksikkö: Ainola\nAlkuperäinen nimi: Ainola hyppyri aamu\nLähde: Titania\nКод: A1L4\nТип: MORNING_SHIFT\nПодразделение: 515
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
