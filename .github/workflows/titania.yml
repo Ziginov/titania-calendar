@@ -2,9 +2,7 @@ name: Titania calendar update
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 20 * * *"
-      timezone: "Europe/Helsinki"
+ 
 
 permissions:
   contents: write
